@@ -62,14 +62,6 @@ def getCommodityPool():
     #         #print(i)
     #         commoditypool = commoditypool + str(i) + ','
 
-
-
-
-
-
-
-
-
 if __name__=='__main__':
 
     starttime = datetime.datetime.now()
